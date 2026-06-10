@@ -220,11 +220,6 @@ Possible enhancements:
 
 **Aniket Anand**
 
-B.Tech Student | Data Analytics Enthusiast | Power BI Developer
-
-GitHub:
-https://github.com/AniketAnand151
-
 ---
 
 ## ⭐ Project Highlights
